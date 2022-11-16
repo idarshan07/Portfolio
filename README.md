@@ -25,9 +25,9 @@ Business Data Analyst (Oct 2020 - Jan 2022)
 > - Libraries: Numpy, Pandas, Seaborn, Scikit-learn, Matplotlib
 
 ## Projects
-#### Study and Analysis of 40K Distribution in Human Body by using NaI(Tl) Scintillation Detector.
+#### Study and Analysis of K-40 Distribution in Human Body by using NaI(Tl) Scintillation Detector.
 Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requirement for the degree Master of Science.
 
 >- Gathered data of people with different dietary habits for measurement of 40K distribution in human boy using machine called Whole Boy Counter (WBC).
 >- Used Excel to analyse the data and visualize it.
->- After Analysis made several conclusions about abundance of 40K in Human body with respect to dietary habits and gender.
+>- After Analysis made several conclusions about abundance of K-40 in Human body with respect to dietary habits and gender.
