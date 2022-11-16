@@ -24,9 +24,9 @@ Business Data Analyst (Oct 2020 - Jan 2022)
 > - Python, SQL, Tableau, ETL, Machine Learning Algorithms, Jupyter
 > - Libraries: Numpy, Pandas, Seaborn, Scikit-learn, Matplotlib
 
-##Projects
+## Projects
 #### Study and Analysis of 40K Distribution in Human Body by using NaI(Tl) Scintillation Detector.
-Worked on this project as a requirement of Kakrapar Atomic Power Station (KAPS), India.
+Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requirement for the degree Master of Science.
 
 >- Gathered data of people with different dietary habits for measurement of 40K distribution in human boy using machine called Whole Boy Counter (WBC).
 >- Used Excel to analyse the data and visualize it.
