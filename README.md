@@ -10,4 +10,9 @@ Master of Science - Physics (2015 - 2020)
 ## Internship
 ### Grroom - Mumbai, India.
 Machine Learning Intern (Dec 2020 - Feb 2022)
-> As a member of machine learning development team, I performed different tasks such as data mining, model trainign and model validation using Python. I worked on Sales tracker feature of Grroom app which is helpful to users to keep track of festival and mega sales at e-commerce as well as retail stores.
+> As a member of machine learning development team, I performed different tasks such as data mining, model trainign and model validation using Python. I worked on Sales tracker feature of Grroom app which helps users to keep track of discount sales at e-commerce as well as retail stores.
+
+## Work experience
+### Proffitto International - Surat, India.
+Business Data Analyst (Oct 2020 - Jan 2022)
+> 
