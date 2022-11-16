@@ -2,17 +2,17 @@
 This Portfolio repository shows my skills, projects, education and journey in data science.
 
 ## Education
-### Durham College - Canada.
+#### Durham College - Canada.
 Postgraduate course - Data Analytics for Business Decisions Making (2022-2022) 
-### Veer Narmad South Gujarat University - Surat, India.
+#### Veer Narmad South Gujarat University - Surat, India.
 Master of Science - Physics (2015 - 2020)
 
 ## Internship
-### Grroom - Mumbai, India.
+#### Grroom - Mumbai, India.
 Machine Learning Intern (Dec 2020 - Feb 2022)
 > As a member of machine learning development team, I performed different tasks such as data mining, model trainign and model validation using Python. I worked on Sales tracker feature of Grroom app which helps users to keep track of discount sales at e-commerce as well as retail stores.
 
 ## Work experience
-### Proffitto International - Surat, India.
+#### Proffitto International - Surat, India.
 Business Data Analyst (Oct 2020 - Jan 2022)
 > 
