@@ -1,4 +1,5 @@
-
+# Darshan Avaiya
+This Portfolio repository shows my skills, projects, education and journey in data science.
 ## Education
 #### Postgraduate course - Data Analytics for Business Decisions Making (2022-2022)
 Durham College - Canada.
