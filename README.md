@@ -21,7 +21,7 @@ Veer Narmad South Gujarat University - Surat, India.
 #### Machine Learning Intern (Dec 2020 - Feb 2022)
 Grroom - Mumbai, India.
 
-> As a member of machine learning development team, I performed different tasks such as data mining, model trainign and model validation using Python. I worked on Sales tracker feature of Grroom app which helps users to keep track of discount sales at e-commerce as well as retail stores.
+> As a member of machine learning development team, I performed different tasks such as data mining, model training and model validation using Python. I worked on Sales tracker feature of Grroom app which helps users to keep track of discount sales at e-commerce as well as retail stores.
 > 
 > Tools & Technology:
 > - Python, SQL, ETL, Deep Learning Algorithms, Google Colab, Tensorflow
