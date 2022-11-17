@@ -1,4 +1,4 @@
-# Darshan Avaiya - Portfolio
+# Darshan Avaiya
 This Portfolio repository shows my skills, projects, education and journey in data science.
 
 ## Education
@@ -7,6 +7,13 @@ Durham College - Canada.
  
 #### Master of Science - Physics (2015 - 2020)
 Veer Narmad South Gujarat University - Surat, India.
+
+## Skills
+> - Programming:  : Python, R, SQL, C
+> - Visualization : Tableau, PowerBI, IBM Cognos Analytics, Excel Charts, Jupyter Notebook
+> - Database      : MySQL, PostgreSQL, IBM Db2
+> - Soft Skills   : Verbal and written communication skills, Presentation and storytelling skills
+> - Others        : Data Analysis, Machine Learning, Deep Learning, Research
 
 ## Internship
 #### Machine Learning Intern (Dec 2020 - Feb 2022)
