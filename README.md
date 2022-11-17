@@ -1,6 +1,6 @@
 # Darshan Avaiya
 This Portfolio repository shows my skills, projects, education and journey in data science.
-#### [LinkedIn](www.linkedin.com/in/darshanavaiya)  [Github](https://github.com/idarshan07)
+### [LinkedIn](www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07)
 ## Education
 #### Postgraduate course - Data Analytics for Business Decisions Making (2022-2022)
 Durham College - Canada.
