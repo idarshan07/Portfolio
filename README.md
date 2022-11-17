@@ -10,8 +10,8 @@ Veer Narmad South Gujarat University - Surat, India.
 
 ## Skills
 > - Programming:  : Python, R, SQL, C
-> - Visualization : Tableau, PowerBI, Excel Charts, Jupyter Notebook
-> - Database      : MySQL, PostgreSQL
+> - Visualization : Tableau, PowerBI, IBM Cognos Analytics, Excel Charts, Jupyter Notebook
+> - Database      : MySQL, PostgreSQL, IBM Db2
 > - Soft Skills   : Verbal and written communication skills, Presentation and storytelling skills
 > - Others        : Data Analysis, Machine Learning, Deep Learning, Research
 
