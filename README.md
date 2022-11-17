@@ -8,7 +8,7 @@ Durham College - Canada.
 #### Master of Science - Physics (2015 - 2020)
 Veer Narmad South Gujarat University - Surat, India.
 
-##Skills
+## Skills
 > - Programming:  : Python, R, SQL, C
 > - Visualization : Tableau, PowerBI, Excel Charts, Jupyter Notebook
 > - Database:     : MySQL, PostgreSQL
