@@ -34,4 +34,10 @@ Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requi
 
 #### [Analysis of attitude towards mental health in tech](https://github.com/idarshan07/Analysis-of-attitude-towards-mental-health-in-tech)
 >- Transformed dataset and built functions which takes attributes as input to forge high level visualizations to analyze the attitude towards mental heath in tech companies.
->- Technology: Jupyter notebook, Python, Libraries(Pandas, Seaborn, Matplotlib) 
+>- Technology: Jupyter notebook, Python, Libraries(Pandas, Seaborn, Matplotlib), Github
+
+#### [Diamonds price prediction](https://github.com/idarshan07/Linear-Regression)
+>- Transformed categorical variables in dataset using one hot encoding.
+>- Built QQ plot and performed Shapiro-Wilk test to check weather data is normally distributed or not.
+>- Trained Linear Regression model on diamonds data set to predict price of diamonds and got R-squared value of 0.92
+>- Technology: Jupyter, Python, Libraries (Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn)
