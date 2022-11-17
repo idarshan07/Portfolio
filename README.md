@@ -31,3 +31,7 @@ Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requi
 >- Gathered data of people with different dietary habits for measurement of 40K distribution in human boy using machine called Whole Boy Counter (WBC).
 >- Used Excel to analyse the data and visualize it.
 >- After Analysis made several conclusions about abundance of K-40 in Human body with respect to dietary habits and gender.
+
+#### [Analysis of attitude towards mental health in tech](https://github.com/idarshan07/Analysis-of-attitude-towards-mental-health-in-tech)
+>- Transformed dataset and built functions which takes attributes as input to forge high level visualizations to analyze the attitude towards mental heath in tech companies.
+>- Technology: Jupyter notebook, Python, Libraries(Pandas, Seaborn, Matplotlib) 
