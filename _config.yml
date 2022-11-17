@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: Portfolio
+baseurl: /Portfolio
+
+relative_links:
+  enabled: true
+  collections: true
+  
+include:
+  - README.md
