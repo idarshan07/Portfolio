@@ -1,4 +1,6 @@
 # Darshan Avaiya
+
+
 This Portfolio repository shows my skills, projects, education and journey in data science.
 ### [LinkedIn](https://www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07)
 ## Education
