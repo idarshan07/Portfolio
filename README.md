@@ -1,6 +1,6 @@
 # Darshan Avaiya
 
-### [LinkedIn](https://www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07)
+### [LinkedIn](https://www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07) | [Kaggle](https://www.kaggle.com/darshanavaiya)
 
 ## About Me
 > I am Darshan Avaiya, student of Data Analytics for Business Decisions Making course at Durham College, having master degree in Physics with strong background in Mathematics and Statistics. I use Exploratory Data Analysis, Visualizations, and predictive modelling methods to help organization in solving data related problems and make data-driven decisions. This Portfolio explains my skills, experience and journey in the field of Data Science and Artificial Intelligence.
