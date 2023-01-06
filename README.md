@@ -55,3 +55,9 @@ Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requi
 >- Built QQ plot and performed Shapiro-Wilk test to check weather data is normally distributed or not.
 >- Trained Linear Regression model on diamonds data set to predict price of diamonds and got R-squared value of 0.92
 >- Technology: Jupyter, Python, Libraries (Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn)
+
+#### [Credit card payment default prediction](https://github.com/idarshan07/Credit-Card-Payment-Default-Prediction)
+>- Cleaned the dataset and prepared it for predictive modelling
+>- Performed SMOTE oversampling to balance the dataset.
+>- Trained Random Forest Classifier and Optimized Hyperparameters.
+>- Evaluated the model using classification report and ROC curve.
