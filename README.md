@@ -6,6 +6,10 @@
 > I am Darshan Avaiya, student of Data Analytics for Business Decisions Making course at Durham College, having master degree in Physics with strong background in Mathematics and Statistics. I use Exploratory Data Analysis, Visualizations, and predictive modelling methods to help organization in solving data related problems and make data-driven decisions. This Portfolio explains my skills, experience and journey in the field of Data Science and Artificial Intelligence.
 
 ## Education
+
+#### Postgraduate course - Applied A.I. Solutions Development (2023-2023)
+George Brown College College - Canada.
+
 #### Postgraduate course - Data Analytics for Business Decisions Making (2022-2022)
 Durham College - Canada.
  
