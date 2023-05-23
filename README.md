@@ -27,10 +27,10 @@ Veer Narmad South Gujarat University - Surat, India.
 #### Data Analyst Intern (May 2023 - Present)
 Government of Ontario - Toronto, ON.
 
->• Performing data analysis for data quality assurance, and process improvement in the Quality Review Program at the Family Responsibility Office.
->• Utilizing data analysis tools and PowerBI to analyze and interpret data, identify trends and patterns, and provide insights to support decision-making.
->• Collaborating with team members to develop and implement quality improvement initiatives.
->• Conducted ongoing research on emerging tools and technologies to identify opportunities for improving process efficiency and enhancing the quality of services provided to clients.
+>- Performing data analysis for data quality assurance, and process improvement in the Quality Review Program at the Family Responsibility Office.
+>- Utilizing data analysis tools and PowerBI to analyze and interpret data, identify trends and patterns, and provide insights to support decision-making.
+>- Collaborating with team members to develop and implement quality improvement initiatives.
+>- Conducted ongoing research on emerging tools and technologies to identify opportunities for improving process efficiency and enhancing the quality of services provided to clients.
 > 
 > Tools & Technology:
 > - PowerBI, R, ETL, Microsoft 365 suite and power platform
