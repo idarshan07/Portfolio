@@ -3,24 +3,25 @@
 ### [LinkedIn](https://www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07) | [Kaggle](https://www.kaggle.com/darshanavaiya)
 
 ## About Me
-> I am Darshan Avaiya, student of Data Analytics for Business Decisions Making course at Durham College, having master degree in Physics with strong background in Mathematics and Statistics. I use Exploratory Data Analysis, Visualizations, and predictive modelling methods to help organization in solving data related problems and make data-driven decisions. This Portfolio explains my skills, experience and journey in the field of Data Science and Artificial Intelligence.
+> Highly motivated and results-oriented professional with a strong passion for data science and the application of advanced analytics techniques. Seeking a challenging position to leverage my skills in machine learning, statistical modeling, and data visualization. Committed to delivering innovative solutions and making a significant impact in the field of data science.
 
 ## Education
 
 #### Postgraduate course - Applied A.I. Solutions Development (2023-2023)
-George Brown College College - Canada.
+George Brown College College - Toronto, ON.
 
 #### Postgraduate course - Data Analytics for Business Decisions Making (2022-2022)
-Durham College - Canada.
+Durham College - Oshawa, ON.
  
 #### Master of Science - Physics (2015 - 2020)
 Veer Narmad South Gujarat University - Surat, India.
 
 ## Skills
 > - Programming:  : Python, R, SQL, C
+> - Frameworks    : TensorFlow, Pytorch, Scikit-Learn, NumPy, Pandas, transformers(Huggingface), OpenCV, 
 > - Visualization : Tableau, PowerBI, IBM Cognos Analytics, Excel Charts, Jupyter Notebook
-> - Database      : MySQL, PostgreSQL, IBM Db2
-> - Soft Skills   : Verbal and written communication skills, Presentation and storytelling skills
+> - Database      : MySQL, PostgreSQL, MongoDb, IBM Db2
+> - Soft Skills   : Verbal and written communication skills, Presentation skills
 > - Others        : Data Analysis, Machine Learning, Deep Learning, Research
 
 ## Internship
