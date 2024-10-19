@@ -25,7 +25,11 @@ Veer Narmad South Gujarat University - Surat, India.
 > - Others        : Data Analysis, Machine Learning, Deep Learning, Research
 
 ## Internship
-#### Data Analyst Intern (May 2023 - Present)
+#### Sr Data Management Specialist (Sept 2023 - Present)
+Ontario Ministry of the Environments, Conservation and Parks - Toronto, ON.
+
+
+#### Data Analyst Intern (May 2023 - Sept 2023)
 Government of Ontario - Toronto, ON.
 
 >- Performing data analysis for data quality assurance, and process improvement in the Quality Review Program at the Family Responsibility Office.
