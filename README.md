@@ -30,6 +30,11 @@ I am a data-focused professional with experience spanning analytics, machine lea
 
 ## Experience highlights
 
+### Sr. Data Developer - Ontario Ministry of Public, Business Service Delivery and Procurement
+- Building unified data solutions for Land & Resources IT Cluster and its partner ministries using Azure Databricks and Microsoft Fabric.
+- Developed data engineering and business intelligence solution for scalable data management and efficient reporting to support data driven decision making.
+- Led data migration project to make legacy data available for access to business area while decommissioning legacy application to reduce ministry's digital footprints.
+
 ### Sr. Data Management Specialist — Ontario Ministry of the Environment, Conservation and Parks
 - Contributed to data quality review and process improvement initiatives in a public-sector environment
 - Used analytical workflows and Power BI to identify trends and support operational decision-making
@@ -79,3 +84,6 @@ I am a data-focused professional with experience spanning analytics, machine lea
 - Postgraduate Certificate — Applied A.I. Solutions Development, George Brown College
 - Postgraduate Certificate — Data Analytics for Business Decision Making, Durham College
 - Master of Science — Physics, Veer Narmad South Gujarat University
+
+
+https://idarshan07.github.io/Portfolio/
