@@ -1,83 +1,81 @@
 # Darshan Avaiya
 
-### [LinkedIn](https://www.linkedin.com/in/darshanavaiya) |  [Github](https://github.com/idarshan07) | [Kaggle](https://www.kaggle.com/darshanavaiya)
+<div class="hero">
+  <h1>Darshan Avaiya</h1>
+  <p class="subtitle">Data Engineer • Data Scientist • Analytics & Platform-minded Professional</p>
+  <p>I build reliable data workflows, practical analytics solutions, and applied AI systems that help teams turn complex information into confident decisions.</p>
+  <p><a href="https://www.linkedin.com/in/darshanavaiya">LinkedIn</a> · <a href="https://github.com/idarshan07">GitHub</a> · <a href="https://www.kaggle.com/darshanavaiya">Kaggle</a></p>
+</div>
 
-## About Me
-> Highly motivated and results-oriented professional with a strong passion for data science and the application of advanced analytics techniques. Seeking a challenging position to leverage my skills in machine learning, statistical modeling, and data visualization. Committed to delivering innovative solutions and making a significant impact in the field of data science.
+<div class="pill-row">
+  <span class="pill">Python</span>
+  <span class="pill">SQL</span>
+  <span class="pill">Power BI</span>
+  <span class="pill">Tableau</span>
+  <span class="pill">Machine Learning</span>
+  <span class="pill">Data Quality</span>
+  <span class="pill">ETL</span>
+  <span class="pill">Analytics</span>
+</div>
+
+## About
+I am a data-focused professional with experience spanning analytics, machine learning, data quality, and business-facing reporting. My work has centered on helping teams understand data better, improve processes, and deliver insights that can guide decision-making.
+
+## Core strengths
+- Data analysis and business intelligence
+- Data quality assurance and process improvement
+- Applied machine learning and predictive modeling
+- End-to-end analytics workflow development using Python, SQL, and BI tools
+- Clear cross-functional communication for technical and business stakeholders
+
+## Experience highlights
+
+### Sr. Data Management Specialist — Ontario Ministry of the Environment, Conservation and Parks
+- Contributed to data quality review and process improvement initiatives in a public-sector environment
+- Used analytical workflows and Power BI to identify trends and support operational decision-making
+- Strengthened reporting discipline and helped improve service quality through structured analysis
+
+### Data Analyst Intern — Government of Ontario
+- Supported the Quality Review Program with data analysis and insight generation
+- Helped uncover trends, validate data quality, and improve reporting clarity
+- Collaborated with teams to strengthen quality and process efficiency
+
+### Machine Learning Intern — Grroom
+- Worked on analytics and machine learning tasks for sales-related product features
+- Applied Python, SQL, and deep learning concepts to support business-facing solutions
+- Contributed to model development, validation, and experimentation in a fast-moving product setting
+
+### Business Data Analyst — Proffitto International
+- Collected, structured, and analyzed e-commerce data for reporting and decision support
+- Built dashboards and visualizations for daily, monthly, and annual sales tracking
+- Supported market research and product insight work for business stakeholders
+
+## Technical toolkit
+- Languages: Python, R, SQL, C
+- Data & BI: Power BI, Tableau, Excel, Jupyter Notebook
+- Data science: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV
+- Data platforms & workflows: ETL, database systems, reporting automation, analytics pipelines
+- Delivery mindset: GitHub, reproducible analysis, documentation, and collaborative problem solving
+
+## Featured projects
+
+### [Analysis of attitude towards mental health in tech](https://github.com/idarshan07/Analysis-of-attitude-towards-mental-health-in-tech)
+- Explored attitudes toward mental health in the technology sector using Python and data visualization
+- Built reusable analysis workflows and interpretive visuals for stakeholder understanding
+
+### [Diamonds price prediction](https://github.com/idarshan07/Linear-Regression)
+- Prepared and transformed a structured dataset for predictive modeling
+- Built regression workflows and evaluated model performance using statistical and visualization techniques
+
+### [Credit card payment default prediction](https://github.com/idarshan07/Credit-Card-Payment-Default-Prediction)
+- Cleaned and balanced a classification dataset for predictive modeling
+- Trained and evaluated a Random Forest classifier with performance metrics and ROC analysis
+
+### Study and Analysis of K-40 Distribution in Human Body
+- Investigated potassium-40 distribution patterns using experimental data and statistical analysis
+- Applied Excel-based analysis and visualization to derive meaningful conclusions from the dataset
 
 ## Education
-
-#### Postgraduate course - Applied A.I. Solutions Development (2023-2023)
-George Brown College College - Toronto, ON.
-
-#### Postgraduate course - Data Analytics for Business Decisions Making (2022-2022)
-Durham College - Oshawa, ON.
- 
-#### Master of Science - Physics (2015 - 2020)
-Veer Narmad South Gujarat University - Surat, India.
-
-## Skills
-> - Programming:  : Python, R, SQL, C
-> - Frameworks    : TensorFlow, Pytorch, Scikit-Learn, NumPy, Pandas, transformers(Huggingface), OpenCV, 
-> - Visualization : Tableau, PowerBI, IBM Cognos Analytics, Excel Charts, Jupyter Notebook
-> - Database      : MySQL, PostgreSQL, MongoDb, IBM Db2
-> - Soft Skills   : Verbal and written communication skills, Presentation skills
-> - Others        : Data Analysis, Machine Learning, Deep Learning, Research
-
-## Internship
-#### Sr Data Management Specialist (Sept 2023 - Present)
-Ontario Ministry of the Environments, Conservation and Parks - Toronto, ON.
-
-
-#### Data Analyst Intern (May 2023 - Sept 2023)
-Government of Ontario - Toronto, ON.
-
->- Performing data analysis for data quality assurance, and process improvement in the Quality Review Program at the Family Responsibility Office.
->- Utilizing data analysis tools and PowerBI to analyze and interpret data, identify trends and patterns, and provide insights to support decision-making.
->- Collaborating with team members to develop and implement quality improvement initiatives.
->- Conducted ongoing research on emerging tools and technologies to identify opportunities for improving process efficiency and enhancing the quality of services provided to clients.
-> 
-> Tools & Technology:
-> - PowerBI, R, ETL, Microsoft 365 suite and power platform
-
-#### Machine Learning Intern (Dec 2020 - Feb 2022)
-Grroom - Mumbai, India.
-
-> As a member of machine learning development team, I performed different tasks such as data mining, model training and model validation using Python. I worked on Sales tracker feature of Grroom app which helps users to keep track of discount sales at e-commerce as well as retail stores.
-> 
-> Tools & Technology:
-> - Python, SQL, ETL, Deep Learning Algorithms, Google Colab, Tensorflow
-
-## Work experience
-#### Business Data Analyst (Oct 2020 - Jan 2022)
-Proffitto International - Surat, India.
-
-> My day-to-day responsibility as Business Data Analyst included to collect data from E-commerce platform and load it into company’s database system for further analysis, prepare data visualizations and dashboards for daily, monthly and annual sales and present it to stakeholders. Market research on demand and sales of new products. Design and test the company’s web application for analytics.
-> 
-> Tools & Technology:
-> - Python, SQL, Tableau, ETL, Machine Learning Algorithms, Jupyter
-> - Libraries: Numpy, Pandas, Seaborn, Scikit-learn, Matplotlib
-
-## Projects
-#### Study and Analysis of K-40 Distribution in Human Body by using NaI(Tl) Scintillation Detector.
-Worked on this project at Kakrapar Atomic Power Station (KAPS), India as a requirement for the degree Master of Science.
-
->- Gathered data of people with different dietary habits for measurement of 40K distribution in human boy using machine called Whole Boy Counter (WBC).
->- Used Excel to analyse the data and visualize it.
->- After Analysis made several conclusions about abundance of K-40 in Human body with respect to dietary habits and gender.
-
-#### [Analysis of attitude towards mental health in tech](https://github.com/idarshan07/Analysis-of-attitude-towards-mental-health-in-tech)
->- Transformed dataset and built functions which takes attributes as input to forge high level visualizations to analyze the attitude towards mental heath in tech companies.
->- Technology: Jupyter notebook, Python, Libraries(Pandas, Seaborn, Matplotlib), Github
-
-#### [Diamonds price prediction](https://github.com/idarshan07/Linear-Regression)
->- Transformed categorical variables in dataset using one hot encoding.
->- Built QQ plot and performed Shapiro-Wilk test to check weather data is normally distributed or not.
->- Trained Linear Regression model on diamonds data set to predict price of diamonds and got R-squared value of 0.92
->- Technology: Jupyter, Python, Libraries (Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn)
-
-#### [Credit card payment default prediction](https://github.com/idarshan07/Credit-Card-Payment-Default-Prediction)
->- Cleaned the dataset and prepared it for predictive modelling
->- Performed SMOTE oversampling to balance the dataset.
->- Trained Random Forest Classifier and Optimized Hyperparameters.
->- Evaluated the model using classification report and ROC curve.
+- Postgraduate Certificate — Applied A.I. Solutions Development, George Brown College
+- Postgraduate Certificate — Data Analytics for Business Decision Making, Durham College
+- Master of Science — Physics, Veer Narmad South Gujarat University

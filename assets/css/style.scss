@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Segoe UI", Inter, Roboto, Arial, sans-serif;
+  background: linear-gradient(135deg, #07111f 0%, #0f172a 50%, #111827 100%);
+  color: #e2e8f0;
+}
+
+.page-header {
+  background: linear-gradient(120deg, #0f172a 0%, #1d4ed8 45%, #7c3aed 100%);
+  color: #f8fafc;
+  padding: 2rem 1.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.14);
+}
+
+.page-header .project-name {
+  font-size: 2.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.page-header .project-tagline {
+  opacity: 0.95;
+}
+
+.main-content {
+  max-width: 980px;
+  padding: 2rem 1.5rem 3rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #f8fafc;
+}
+
+.main-content a {
+  color: #93c5fd;
+}
+
+.main-content a:hover {
+  color: #bfdbfe;
+}
+
+.hero {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 16px;
+  padding: 1.25rem 1.4rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.hero h1 {
+  margin-bottom: 0.3rem;
+}
+
+.subtitle {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #bfdbfe;
+  margin-bottom: 0.6rem;
+}
+
+.pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.pill {
+  background: rgba(59,130,246,0.16);
+  border: 1px solid rgba(147,197,253,0.25);
+  color: #dbeafe;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.92rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
