@@ -1,4 +1,3 @@
-# Darshan Avaiya
 
 <div class="hero">
   <h1>Darshan Avaiya</h1>
